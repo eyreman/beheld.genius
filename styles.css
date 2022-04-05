@@ -1,0 +1,58 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px; 
+    background-color: rgb(240, 226, 102);
+    color: #6666666; 
+}
+
+h4 {
+    font-size: 20px;
+    color: rgb(66, 33, 33);
+}
+
+li {
+    font-size: 14px;
+    font-style: italic;
+    font-weight: normal;
+    text-decoration: normal;
+}
+a {
+    color: rgb(90, 9, 9);
+    text-decoration: none;
+}
+a:hover {
+    text-decoration: underline;
+}
+
+.Resumelistheading {
+    font-weight: bold;
+    font-style: normal;
+}
+.underline {
+    text-decoration: underline;
+   
+}
+
+.bold {font-weight: bold;}
+
+.justify {
+    text-align: justify;
+}
+.homebg {background-image: url('images/backgroundsimp.jpg');
+background-position: bottom right;
+background-repeat: repeat;
+}
+
+.box1 {
+    border-width: 1px;
+    border-style: solid;
+    border-color: green;
+    border: solid 5px black; 
+}
+.box2 {
+    padding: 4px;
+    
+}
+.box3 {
+    margin: 5px;
+}
